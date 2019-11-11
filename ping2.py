@@ -13,4 +13,4 @@ def getLinks(url):
     return links
 
 
-print(getLinks("https://sharechat.com/rss"))
+print(getLinks(" "))  # pass the url which contains all the rss urls
