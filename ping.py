@@ -1,7 +1,7 @@
 from urllib.request import urlopen
 
 
-allurls = [,]
+allurls = [,] # comma seperated RSS urls
 
 gping = "https://www.google.com/ping?sitemap="
 bping = "http://www.bing.com/webmaster/ping.aspx?siteMap="
